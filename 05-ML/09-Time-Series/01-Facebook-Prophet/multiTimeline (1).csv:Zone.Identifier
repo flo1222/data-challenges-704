@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=https://trends.google.com/trends/explore?date=all&geo=US&q=datascience
+HostUrl=https://trends.google.com/trends/api/widgetdata/multiline/csv?req=%7B%22time%22%3A%222004-01-01%202020-11-12%22%2C%22resolution%22%3A%22MONTH%22%2C%22locale%22%3A%22fr%22%2C%22comparisonItem%22%3A%5B%7B%22geo%22%3A%7B%22country%22%3A%22US%22%7D%2C%22complexKeywordsRestriction%22%3A%7B%22keyword%22%3A%5B%7B%22type%22%3A%22BROAD%22%2C%22value%22%3A%22datascience%22%7D%5D%7D%7D%5D%2C%22requestOptions%22%3A%7B%22property%22%3A%22%22%2C%22backend%22%3A%22IZG%22%2C%22category%22%3A0%7D%7D&token=APP6_UEAAAAAX66h4wKmqCoqC2z9HMqkVT4pibLdYyC0&tz=-60
